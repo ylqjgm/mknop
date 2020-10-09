@@ -3,8 +3,7 @@
 
 **本项目来自[https://github.com/tuanqing/mknop](https://github.com/tuanqing/mknop)，并将Flippy所有现存内核逐一添加，以供有需要的朋友使用**
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/ylqjgm/mknop)](https://github.com/ylqjgm/mknop)
-👆👆👆&nbsp; &nbsp; 当前项目大小
+![GitHub repo size](https://img.shields.io/github/repo-size/ylqjgm/mknop?label=%E9%A1%B9%E7%9B%AE%E5%A4%A7%E5%B0%8F&style=for-the-badge)
 
 ## Usage
 
